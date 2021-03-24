@@ -48,8 +48,11 @@ img:last-of-type{
     margin-top: -40px;
     display: flex;
     flex-direction: row;
+    width: 80%;
+    margin-left: 18%;
     justify-content: space-evenly;
     align-content: center;
+    align-items: baseline;
 }
 .text div:nth-child(2n){
     text-align: center;
